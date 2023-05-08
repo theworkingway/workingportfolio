@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/workingportfolio/static/css/main.2fb65c00.css",
+    "main.js": "/workingportfolio/static/js/main.6b8486a5.js",
+    "static/media/_person2-p-500.jpg": "/workingportfolio/static/media/63e50e2c3ccf4fcd1433b598_person2-p-500.10b0f634b935a3cd97cf.jpg",
+    "index.html": "/workingportfolio/index.html",
+    "main.2fb65c00.css.map": "/workingportfolio/static/css/main.2fb65c00.css.map",
+    "main.6b8486a5.js.map": "/workingportfolio/static/js/main.6b8486a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb65c00.css",
+    "static/js/main.6b8486a5.js"
+  ]
+}
